@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{informe código}
+\author{Bruneli }
+\date{May 2025}
+
+\begin{document}
+
+\maketitle
+
+\section{explicación}
+
+este código lo que hace es elegir un número al azar entre el 1 y el 10 y en base a eso imprime en pantalla una curiosidad random, hay 10 curiosidades y te da una curiosidad por ejecución de código :3
+
+\end{document}
