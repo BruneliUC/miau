@@ -28,4 +28,4 @@ elif a==9:
     print("Las aves no orinan. Ni siquiera tienen uretra... todo sale de la cola.")
 
 elif a==10:
-    print("Los delfines se ponen nombre. Los delfines tienen silbidos únicos, y los otros delfines imitan ese silbido para llamarles la atención. Los investigadores de delfines piensan que este silbido es su versión de tener nombre.")
+    print("Los delfines se ponen nombre Los delfines tienen silbidos únicos, y los otros delfines imitan ese silbido para llamarles la atención. Los investigadores de delfines piensan que este silbido es su versión de tener nombre.")
